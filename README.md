@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/dscss1/dscss1/blob/main/DSCSS1_Glitching_1.gif" width="100" style="border-radius: 50px;"/>
+  <img src="https://github.com/dscss1/dscss1/blob/main/DSCSS1_Glitching_1.gif" width="100" border-radius="50%"/>
 
   <div id="badges">
     <a href="https://www.youtube.com/your_channel" target="_blank">
