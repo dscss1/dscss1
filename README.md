@@ -15,7 +15,6 @@
     <a href="https://github.com/dscss2">
         <img src="https://komarev.com/ghpvc/?username=dscss2&style=flat-square" alt="Profile Views"/>
     </a>
-    <hr style="width:80%;text-align:center;">
 </div>
 
 <h1>
