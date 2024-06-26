@@ -13,7 +13,9 @@
           <a href="https://github.com/dscss2?tab=followers">
       <img src="https://img.shields.io/github/followers/dscss2">
     </a>
-    <img src="https://komarev.com/ghpvc/?username=dscss2&style=flat-square" alt=""/>
+    <a href="https://github.com/dscss2">
+        <img src="https://komarev.com/ghpvc/?username=dscss2&style=flat-square" alt=""/>
+    </a>
     
   </div>
 
