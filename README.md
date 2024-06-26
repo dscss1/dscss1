@@ -24,18 +24,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
-  <div id="header" align="center">
-    <a href="https://discord.com/users/883365116412854303" target="_blank">
-      <img src="https://lanyard.cnrad.dev/api/883365116412854303?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence"/>
-    </a>
-    <a href="https://github.com/dscss2" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=dscss2" alt="dscss2's GitHub stats"/>
-    </a>
-    <a href="https://github.com/dscss2" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dscss2&layout=donut-vertical" alt="Top Langs"/>
-    </a>
-  </div>
-</div>
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -47,4 +36,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" style="margin: 5px;"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40" style="margin: 5px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" style="margin: 5px;"/>
+</div>
+
+
+
+
+
+    
+  <div id="header" align="center">
+    <a href="https://discord.com/users/883365116412854303" target="_blank">
+      <img src="https://lanyard.cnrad.dev/api/883365116412854303?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence"/>
+    </a>
+    <a href="https://github.com/dscss2" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api?username=dscss2" alt="dscss2's GitHub stats"/>
+    </a>
+    <a href="https://github.com/dscss2" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dscss2&layout=donut-vertical" alt="Top Langs"/>
+    </a>
+  </div>
 </div>
