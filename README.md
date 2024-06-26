@@ -7,16 +7,17 @@
   
 
         
-<img src="https://komarev.com/ghpvc/?username=dscss2&style=flat-square&color=black" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=dscss2&style=flat-square" alt=""/>
 
     
 
 
+  </div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
-
-Hi there 🖐️
-</div>
-
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/883365116412854303?theme=dark&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/883365116412854303)
 
