@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://github.com/dscss1/dscss1/blob/main/DSCSS1_Glitching_1.gif" width="100" border-radius="50%"/>
+<div id="header" align="center"> 
+    <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="100" style="border-radius: 50%;"/>
 
   <div id="badges">
     <a href="https://www.youtube.com/your_channel" target="_blank">
@@ -9,7 +9,12 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <br>
+    <a href="https://github.com/dscss2?tab=followers">
+      <img src="https://img.shields.io/github/followers/dscss2">
+    </a>
+    <br>
     <img src="https://komarev.com/ghpvc/?username=dscss2&style=flat-square" alt=""/>
+    
   </div>
 
   <h1>
