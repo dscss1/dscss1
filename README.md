@@ -4,6 +4,14 @@
 <div id="badges">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  
+
+        
+<img src="https://komarev.com/ghpvc/?username=dscss2&style=flat-square&color=black" alt=""/>
+
+    
+
+
 </div>
 
 Hi there 🖐️
