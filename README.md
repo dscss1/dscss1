@@ -2,7 +2,7 @@
 <img src="https://github.com/dscss1/dscss1/blob/main/DSCSS1_Glitching_1.gif" width="100" style="border-radius: 50%;"/>
 
 <div id="badges">
-<a href="https://www.youtube.com/@dscss2" target="_blank">
+<a href="https://www.youtube.com/@dscss1" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </a>
 <a href="https://twitter.com/dscss11" target="_blank">
