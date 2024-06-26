@@ -9,10 +9,10 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <br>
-    <a href="https://github.com/dscss2?tab=followers">
+    <br>
+          <a href="https://github.com/dscss2?tab=followers">
       <img src="https://img.shields.io/github/followers/dscss2">
     </a>
-    <br>
     <img src="https://komarev.com/ghpvc/?username=dscss2&style=flat-square" alt=""/>
     
   </div>
