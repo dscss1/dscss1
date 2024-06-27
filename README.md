@@ -2,18 +2,18 @@
     <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="100" style="border-radius: 50%;"/>
 
 <div id="badges">
-    <a href="https://www.youtube.com/your_channel" target="_blank">
+    <a href="https://www.youtube.com/@dscss1" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
     </a>
-    <a href="https://twitter.com/your_profile" target="_blank">
+    <a href="https://twitter.com/dscss11" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <br><br>
-    <a href="https://github.com/dscss2?tab=followers">
-        <img src="https://img.shields.io/github/followers/dscss2" alt="GitHub Followers"/>
+    <a href="https://github.com/dscss1?tab=followers">
+        <img src="https://img.shields.io/github/followers/dscss1" alt="GitHub Followers"/>
     </a>
-    <a href="https://github.com/dscss2">
-        <img src="https://komarev.com/ghpvc/?username=dscss2&style=flat-square" alt="Profile Views"/>
+    <a href="https://github.com/dscss1">
+        <img src="https://komarev.com/ghpvc/?username=dscss1&style=flat-square" alt="Profile Views"/>
     </a>
 </div>
 
