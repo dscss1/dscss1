@@ -39,7 +39,6 @@
     <a href="https://discord.com/users/1301517850921664547" target="_blank">
         <img src="https://lanyard.cnrad.dev/api/1301517850921664547?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence"/>
     </a>
-    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31sj7qcn7acf53r57565zk5is7di&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31sj7qcn7acf53r57565zk5is7di&redirect=true)
     <a href="https://github.com/dscss1" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=dscss1" alt="dscss1's GitHub stats"/>
     </a>
