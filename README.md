@@ -34,7 +34,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" style="margin: 5px;"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" style="margin: 5px;"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40" style="margin: 5px;"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40" style="margin: 5px;"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40" style="margin: 5px;"/>
         <hr style="width:80%;text-align:center;">
     </div>
 
