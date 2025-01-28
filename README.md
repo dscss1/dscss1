@@ -5,8 +5,8 @@
     <a href="https://www.youtube.com/@dscss1" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
     </a>
-    <a href="https://twitter.com/dscss11" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://X.com/dscss11" target="_blank">
+        <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
     </a>
     <br><br>
     <a href="https://github.com/dscss1?tab=followers">
