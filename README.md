@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dscss1/dscss1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dscss1/dscss1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dscss1/dscss1/output/github-contribution-grid-snake.svg">
+</picture>
 <div id="header" align="center"> 
     <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="100" style="border-radius: 50%;"/>
 
@@ -48,10 +53,5 @@
     <a href="https://github.com/dscss1" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dscss1&layout=donut-vertical" alt="Top Languages"/>
     </a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dscss1/dscss1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dscss1/dscss1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dscss1/dscss1/output/github-contribution-grid-snake.svg">
-</picture>
     </div>
 </div>
