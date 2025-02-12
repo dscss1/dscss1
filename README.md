@@ -48,5 +48,10 @@
     <a href="https://github.com/dscss1" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dscss1&layout=donut-vertical" alt="Top Languages"/>
     </a>
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
     </div>
 </div>
