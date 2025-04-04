@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dscss1/dscss1/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dscss1/dscss1/output/github-contribution-grid-snake.svg">
 </picture>
-![Metrics](/github-metrics.svg)
+<img src="github-metrics.svg">
 <div id="header" align="center"> 
     <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="100" style="border-radius: 50%;"/>
 
