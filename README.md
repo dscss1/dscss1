@@ -45,9 +45,6 @@
     </div>
 
 <div id="profile">
-    <a href="https://discord.com/users/1301517850921664547" target="_blank">
-        <img src="https://lanyard.kyrie25.dev/api/1301517850921664547?animated=false&useDisplayName=true&waveColor=FF597B&waveSpotifyColor=FF597B&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
-    </a>
     <a href="https://github.com/dscss1" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=dscss1" alt="dscss1's GitHub stats"/>
     </a>
