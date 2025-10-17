@@ -5,8 +5,6 @@
 </picture>
 <img src="github-metrics.svg">
 <div id="header" align="center"> 
-    <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="100" style="border-radius: 50%;"/>
-
 <div id="badges">
     <a href="https://www.youtube.com/@dscss1" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
